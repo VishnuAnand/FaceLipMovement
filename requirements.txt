@@ -1,4 +1,10 @@
-tensorflow
-opencv-python
-dlib
-librosa
+librosa==0.8.0
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+torch==2.4.0
+torchvision==0.19.0
+tqdm==4.66.4
+numba==0.60.0
+tensorflow==2.17.0
+dlib==19.24.5
